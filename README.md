@@ -22,4 +22,6 @@ python setup.py build
 python setup.py bdist_msi
 ```
 ### Note : 
-I have uploaded my windows binary file too...if in any case you cant build it, feel free to download mine!! 
+I have uploaded my windows binary file too...if in any case you cant build it, feel free to download mine!!     
+You can find in my [releases](https://github.com/ASH1998/Face_eyes_smile-detection/releases) under this project [here](https://github.com/ASH1998/Face_eyes_smile-detection/releases/download/V1.01/Face.Eyes.Smile.Detection-0.1-amd64.msi)      
+or from my [google drive](https://drive.google.com/open?id=0B1wREOeURNTcUjNCWXhHaGtPTlE)
