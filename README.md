@@ -9,7 +9,7 @@ This is an OpenCV application for face, eyes, smile detection. It uses haarcasca
 1. Python     
 2. Opencv-Python
 3. Download the required haars from [here](https://github.com/opencv/opencv/tree/master/data/haarcascades).     
-4. cx_freeze(if you want to run `setup.py` for making a windows binary(.exe) file.
+4. cx_freeze(if you want to run `setup.py` for making a windows binary(.exe) file).
 
 ## Usage:
 After successful installation of opencv-python and downloading the haars, run the script and change in the haar name in `cv2.CascadeClassifier` in the program `FACE_EYES_SMILE_DETECTION.PY`
