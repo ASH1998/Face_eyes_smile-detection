@@ -1,4 +1,4 @@
-# Face_eyes_smile-detection
+# Face_eyes_smile-detection[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/android-digit-recogniser.svg)](http://hits.dwyl.io/ASH1998/android-digit-recogniser)
 This is an OpenCV application for face, eyes, smile detection. It uses haarcascade provided by OpenCV
 
 ## Requirements :
