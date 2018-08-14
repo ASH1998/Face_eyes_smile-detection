@@ -1,5 +1,4 @@
 
-# THIS SCRIPT SHOULD BE CALLED SETUP.PY
 import cx_Freeze 
 
 executables = [
@@ -14,6 +13,3 @@ cx_Freeze.setup(
         description = "Must have a web-cam to see your face!!!", 
         executables = executables)
 
-
-#python setup.py build
-#python setup.py bdist_msi
